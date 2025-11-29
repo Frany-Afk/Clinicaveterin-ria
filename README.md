@@ -65,3 +65,5 @@ O objetivo deste banco de dados é permitir que a clínica veterinária:
 - Monitore medicamentos aplicados e suas doses
 
 - Evite duplicidade e inconsistências através de uma modelagem normalizada.
+
+  <h3>Projeto Academico - Cruzeiro do Sul</h3>
